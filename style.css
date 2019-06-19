@@ -1,0 +1,21 @@
+outside {
+  z-index: 1;
+  position: absolute;
+  background-color: #a04040;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: 1s;
+  transform-origin: 0;
+}
+
+.open-card {
+  transform: rotateY(90deg);
+}
+
+#outside-title {
+  color: black;
+  font-family: Courier;
+  font-size: 24pt;
+  text-align: center;
+}
