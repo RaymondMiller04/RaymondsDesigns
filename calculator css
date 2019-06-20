@@ -1,0 +1,14 @@
+}
+
+#buttonsum{
+  background-color: blue;
+    color: white;
+}
+#nunmberTwo{
+  border-radius: 100%;
+    border: 9px dotted blue;
+    height: 47px dotted blue;
+  }  
+
+    #buttonsum:hover{
+      background-color: blue;
