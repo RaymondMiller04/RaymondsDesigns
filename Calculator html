@@ -1,0 +1,13 @@
+<input
+placeholder="Enter Number One" 
+id="numberOne"/>
+<input 
+placeholder="Enter Number Two" 
+id="numberTwo" />
+<input
+type="button" value="SumNumber"
+onclick="sumNumber()" id="buttonsum"
+/>
+</form>
+
+<p id="sum"></p>
